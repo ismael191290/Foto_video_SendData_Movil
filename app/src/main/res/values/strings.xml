@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SEDESO</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_domi">Domicilio</string>
+    <string name="txt_observa">Observación</string>
+    <string name="txt_mts">Metros</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_foto">Foto</string>
+    <string name="btn_video">Video</string>
+    <string name="response_time_out">TimeOut</string>
+    <string name="response_server_error">SERVER_ERROR</string>
+    <string name="str_error_server">Error al conectar con el servidor</string>
+    <string name="str_list_error">Error, intente de nuevo más tarde</string>
+    <string name="str_instente_mas_tarde">Error, El tiempo de espera se ha agotado</string>
+    <string name="response_true">TRUE</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="btn_new">Nuevo</string>
+    <string name="lbl_sedeso">SEDESO</string>
+</resources>
